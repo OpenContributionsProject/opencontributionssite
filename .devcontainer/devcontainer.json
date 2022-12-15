@@ -11,7 +11,17 @@
   // "forwardPorts": [],
 
   // Use 'postCreateCommand' to run commands after the container is created.
-  "postCreateCommand": "pnpm install"
+"postCreateCommand": "pnpm install",
+"customizations": {
+	"vscode": {
+		"extensions": [
+      "streetsidesoftware.code-spell-checker",
+      "dbaeumer.vscode-eslint",
+			"esbenp.prettier-vscode",
+      "DavidAnson.vscode-markdownlint"
+		]
+	}
+}
 
   // Configure tool-specific properties.
   // "customizations": {},
