@@ -8,23 +8,22 @@
   // "features": {},
 
   // Use 'forwardPorts' to make a list of ports inside the container available locally.
-  // "forwardPorts": [],
+  "forwardPorts": [8000],
 
   // Use 'postCreateCommand' to run commands after the container is created.
-"postCreateCommand": "pnpm install",
-"customizations": {
-	"vscode": {
-		"extensions": [
-      "streetsidesoftware.code-spell-checker",
-      "dbaeumer.vscode-eslint",
-			"esbenp.prettier-vscode",
-      "DavidAnson.vscode-markdownlint"
-		]
-	}
-}
-
+  "postCreateCommand": "pnpm run start",
+  "postStartCommand": "pnpm run dev",
   // Configure tool-specific properties.
-  // "customizations": {},
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "streetsidesoftware.code-spell-checker",
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "DavidAnson.vscode-markdownlint"
+      ]
+    }
+  }
 
   // Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
   // "remoteUser": "root"
