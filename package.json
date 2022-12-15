@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "prepare": "npx husky install"
+    "prepare": "husky install"
   },
   "dependencies": {
     "@next/font": "13.0.7",
@@ -25,6 +25,8 @@
   },
   "devDependencies": {
     "eslint-config-prettier": "^8.5.0",
+    "husky": "^8.0.2",
+    "lint-staged": "^13.1.0",
     "prettier": "^2.8.1"
   },
   "lint-staged": {
