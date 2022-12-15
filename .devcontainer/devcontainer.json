@@ -8,11 +8,11 @@
   // "features": {},
 
   // Use 'forwardPorts' to make a list of ports inside the container available locally.
-  "forwardPorts": [8000],
+  // "forwardPorts": [8000],
 
   // Use 'postCreateCommand' to run commands after the container is created.
-  "postCreateCommand": "pnpm run start",
-  "postStartCommand": "pnpm run dev",
+  // "postCreateCommand": "npm install pnpm; pnpm install",
+  // "postStartCommand": "pnpm run dev",
   // Configure tool-specific properties.
   "customizations": {
     "vscode": {
