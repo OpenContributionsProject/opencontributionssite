@@ -3,7 +3,9 @@
 	"ignorePaths": [
 		"*.tsbuildinfo",
 		".github/workflows",
+		".next",
 		"coverage",
+		"LICENSE.md",
 		"node_modules",
 		"pnpm-lock.yaml"
 	],
