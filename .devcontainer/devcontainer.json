@@ -20,7 +20,8 @@
         "streetsidesoftware.code-spell-checker",
         "dbaeumer.vscode-eslint",
         "esbenp.prettier-vscode",
-        "DavidAnson.vscode-markdownlint"
+        "DavidAnson.vscode-markdownlint",
+        "ms-vscode-remote.remote-containers"
       ]
     }
   }
