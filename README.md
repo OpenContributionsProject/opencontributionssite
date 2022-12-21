@@ -1,6 +1,6 @@
 <h1 align="center">Open Contributions Site</h1>
 
-<p align="center">An effort to describe and quantify corporate contributions to open source.
+<p align="center">A resource to help advocate for and explain corporate contributions to open source.
 Our goal is to empower employees advocating for open source contributions to their employers. 💙</p>
 
 <p align="center">
