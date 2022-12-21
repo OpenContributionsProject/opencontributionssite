@@ -1,0 +1,19 @@
+{
+	"dictionaries": ["typescript"],
+	"ignorePaths": [
+		"*.tsbuildinfo",
+		".github/workflows",
+		"coverage",
+		"node_modules",
+		"pnpm-lock.yaml"
+	],
+	"words": [
+		"automerge",
+		"codecov",
+		"commitlint",
+		"lcov",
+		"opencontributionssite",
+		"pnpm",
+		"vercel"
+	]
+}
