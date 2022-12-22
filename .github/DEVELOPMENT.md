@@ -75,12 +75,12 @@ Add the `--coverage` flat to compute test coverage and place reports in the `cov
 pnpm run test --coverage
 ```
 
-### Type Checking
+### TypeScript
 
-Run [TypeScript](https://typescriptlang.org) locally to type check files:
+You should see feedback from [TypeScript](https://typescriptlang.org) in your editor.
+
+If you'd like to get a real-time updated list of all TypeScript errors in ycode, you can run its `tsc` command-line locally:
 
 ```shell
 pnpm tsc --watch
 ```
-
-You should also see suggestions from TypeScript in your editor.
