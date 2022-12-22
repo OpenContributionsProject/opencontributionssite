@@ -13,8 +13,8 @@
 /out/
 coverage/
 lib/
-next-env.d.ts
 node_modules/
 npm-debug.log*
+src/next-env.d.ts
 yarn-debug.log*
 yarn-error.log*

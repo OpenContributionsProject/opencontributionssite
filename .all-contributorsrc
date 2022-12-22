@@ -47,8 +47,8 @@
     "README.md"
   ],
   "imageSize": 100,
-  "projectName": "template-typescript-node-package",
-  "projectOwner": "JoshuaKGoldberg",
+  "projectName": "opensourcecontributionssite",
+  "projectOwner": "OpenContributionsProject",
   "repoHost": "https://github.com",
   "repoType": "github",
   "skipCi": true
