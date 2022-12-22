@@ -79,7 +79,7 @@ pnpm run test --coverage
 
 You should see feedback from [TypeScript](https://typescriptlang.org) in your editor.
 
-If you'd like to get a real-time updated list of all TypeScript errors in ycode, you can run its `tsc` command-line locally:
+If you'd like to get a real-time updated list of all TypeScript errors, you can run its `tsc` command-line locally:
 
 ```shell
 pnpm tsc --watch
