@@ -1,0 +1,4 @@
+{
+	"error": true,
+	"skip": "(src/pages|vitest\\.config\\.ts)"
+}
