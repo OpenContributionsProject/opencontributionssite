@@ -38,6 +38,8 @@ See <a href="https://github.com/OpenContributionsProject">github.com/OpenContrib
 See [Development](./.github/DEVELOPMENT.md) for our guide to getting started working in this project.
 We'd love to have you contribute! 💖
 
+## Contributors
+
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
