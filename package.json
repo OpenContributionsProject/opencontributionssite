@@ -8,7 +8,7 @@
 	"description": "A resource to help advocate for and explain corporate contributions to open source.",
 	"devDependencies": {
 		"@types/node": "18.11.18",
-		"@types/react-dom": "18.0.9",
+		"@types/react-dom": "18.0.10",
 		"@types/react": "18.0.26",
 		"@typescript-eslint/eslint-plugin": "^5.46.1",
 		"@typescript-eslint/parser": "^5.46.1",
