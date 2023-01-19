@@ -7,7 +7,7 @@ jobs:
   assign:
     name: Take an issue
     runs-on: ubuntu-latest
-    permissions: 
+    permissions:
       issues: write
     steps:
       - name: take the issue
