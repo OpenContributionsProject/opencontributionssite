@@ -12,7 +12,7 @@ jobs:
     steps:
       - name: take the issue
         uses: bdougie/take-action@main
-        with: 
+        with:
           message: Thanks for taking this issue! Let us know if you have any questions!
           trigger: .take
           token: ${{ secrets.GITHUB_TOKEN }}
