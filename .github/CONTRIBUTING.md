@@ -26,6 +26,11 @@ With the exception of very small typos, all changes to this repository generally
 If this is your first time contributing, consider searching for [unassigned issues that also have the `good first issue` label](https://github.com/OpenContributionsProject/opencontributionssite/issues?q=is%3Aopen+is%3Aissue+label%3A%22accepting+prs%22+label%3A%22good+first+issue%22+no%3Aassignee).
 If the issue you'd like to fix isn't found on the issue, see [Reporting Issues](#reporting-issues) for filing your own (please do!).
 
+### Assigning an issue
+
+Once you found an unassigned issue that you'd like to work on, you can self-assign the issue by commenting ".take" on the issue. This will trigger an automate GitHub Action to run and assign you to the issue. If successful, you will receive an automated comment that says, "Thanks for taking this issue! Let us know if you have any questions!" Subsequently, you can get started on the task! See the image below for an example of what this should look like: 
+![Rizel commenting ".take" and a confirmation that the issue has been assigned](https://user-images.githubusercontent.com/22990146/213798928-cf6645c1-5050-4ad0-8b99-a89fe7fbaabf.png)
+
 ### Sending a Pull Request
 
 Once you've identified an open issue accepting PRs that doesn't yet have a PR sent, you're free to send a pull request.
