@@ -14,9 +14,11 @@
 		"blackgirlbytes",
 		"codecov",
 		"commitlint",
+		"crowdsourced",
 		"lcov",
 		"opencontributionssite",
 		"pnpm",
+		"rehype",
 		"Rizel",
 		"Scarlett",
 		"vercel"
