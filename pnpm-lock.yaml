@@ -1205,7 +1205,7 @@ packages:
       '@typescript-eslint/utils': 5.48.2_7uibuqfxkfaozanbtbziikiqje
       debug: 4.3.4
       eslint: 8.32.0
-      ignore: 5.2.1
+      ignore: 5.2.4
       natural-compare-lite: 1.4.0
       regexpp: 3.2.0
       semver: 7.3.8
@@ -2693,7 +2693,7 @@ packages:
       glob-parent: 6.0.2
       globals: 13.19.0
       grapheme-splitter: 1.0.4
-      ignore: 5.2.1
+      ignore: 5.2.4
       import-fresh: 3.3.0
       imurmurhash: 0.1.4
       is-glob: 4.0.3
@@ -4680,7 +4680,7 @@ packages:
       cosmiconfig: 8.0.0
       debug: 4.3.4
       globby: 11.1.0
-      ignore: 5.2.1
+      ignore: 5.2.4
       is-plain-obj: 3.0.0
       jsonc-parser: 3.2.0
       log-symbols: 4.1.0
