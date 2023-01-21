@@ -2456,7 +2456,7 @@ packages:
     dependencies:
       escape-string-regexp: 1.0.5
       eslint: 8.32.0
-      ignore: 5.2.1
+      ignore: 5.2.4
     dev: true
 
   /eslint-plugin-import/2.26.0_anoc6aiadrrjoh5wuzips7vvmq:
@@ -3246,11 +3246,6 @@ packages:
     resolution: {integrity: sha512-+dQSyqPh4x1hlO1swXBiNb2HzTDN1I2IGLQx1GrBuiqFJfoMrnZWwVmatvSiO+Iz8fBUnf+lekwNo4c2LlXItg==}
     engines: {node: '>=14'}
     hasBin: true
-    dev: true
-
-  /ignore/5.2.1:
-    resolution: {integrity: sha512-d2qQLzTJ9WxQftPAuEQpSPmKqzxePjzVbpAVv62AQ64NTL+wR4JkrVqR/LqFsFEUsHDAiId52mJteHDFuDkElA==}
-    engines: {node: '>= 4'}
     dev: true
 
   /ignore/5.2.4:
