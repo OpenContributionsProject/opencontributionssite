@@ -20,7 +20,7 @@ See our [_area: design_ issues](https://github.com/OpenContributionsProject/open
 
 ## Development
 
-Once the site has a theme and design system specced out, we'll want to implement it.
+Once the site has a theme and design system designed, we'll want to implement it.
 We don't particularly need development resources just yet, but if you're particularly excited then let us know!
 We can find something for you to work on.
 
