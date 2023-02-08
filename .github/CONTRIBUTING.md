@@ -29,9 +29,9 @@ If the issue you'd like to fix isn't found on the issue, see [Reporting Issues](
 ### Assigning an issue
 
 Once you've found an unassigned issue that you'd like to work on, you can self-assign the issue by commenting _".take"_ on the issue.
-This will trigger an automated GitHub Action to assign you to the issue and post a _"Thanks for taking this issue! Let us know if you have any questions!"_ comment. Subsequently, you can get started on the task!
-See the image below for an example of what this should look like:
-![Rizel commenting ".take" and a confirmation that the issue has been assigned](https://user-images.githubusercontent.com/22990146/213798928-cf6645c1-5050-4ad0-8b99-a89fe7fbaabf.png)
+This will trigger an automated GitHub Action to assign you to the issue and post a _"Thanks for taking this issue! Let us know if you have any questions!"_ comment.
+Subsequently, you can get started on the task!
+See the image below for an example of what this should look like: ![Rizel commenting ".take" and a confirmation that the issue has been assigned](https://user-images.githubusercontent.com/22990146/213798928-cf6645c1-5050-4ad0-8b99-a89fe7fbaabf.png)
 
 ### Sending a Pull Request
 
