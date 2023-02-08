@@ -17,7 +17,7 @@ See our [Explainers](./explainers) to understand this incredible movement in sof
 
 Interested in advocating for contributing to open source, or getting involved yourself?
 Let us help you.
-See our [Guides](./guides) for suggestions on how to go about making open source a part of your life.
+Check out our [Guides](./guides) to learn how you can start your open source journey and make a positive impact on the world of software development.
 
 ## Get Involved
 
