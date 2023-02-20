@@ -40,6 +40,15 @@
       "login": "blackgirlbytes",
       "name": "Rizel Scarlett",
       "profile": "https://blackgirlbytes.dev"
+    },
+    {
+      "login": "iamkingsleey",
+      "name": "Kingsley Mkpandiok",
+      "avatar_url": "https://avatars.githubusercontent.com/u/63562509?v=4",
+      "profile": "https://kingsley.vzy.io/",
+      "contributions": [
+        "design"
+      ]
     }
   ],
   "contributorsPerLine": 7,
