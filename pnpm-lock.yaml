@@ -10,7 +10,7 @@ specifiers:
   '@types/react-dom': 18.0.10
   '@typescript-eslint/eslint-plugin': ^5.48.2
   '@typescript-eslint/parser': ^5.48.2
-  '@vitest/coverage-c8': ^0.28.0
+  '@vitest/coverage-c8': ^0.29.0
   cspell: ^6.19.2
   eslint: ^8.32.0
   eslint-config-next: 13.1.6
@@ -62,7 +62,7 @@ devDependencies:
   '@types/react-dom': 18.0.10
   '@typescript-eslint/eslint-plugin': 5.48.2_caon6io6stgpr7lz2rtbhekxqy
   '@typescript-eslint/parser': 5.48.2_7uibuqfxkfaozanbtbziikiqje
-  '@vitest/coverage-c8': 0.28.2
+  '@vitest/coverage-c8': 0.29.1_vitest@0.28.2
   cspell: 6.19.2
   eslint: 8.32.0
   eslint-config-next: 13.1.6_7uibuqfxkfaozanbtbziikiqje
@@ -1392,25 +1392,15 @@ packages:
       eslint-visitor-keys: 3.3.0
     dev: true
 
-  /@vitest/coverage-c8/0.28.2:
-    resolution: {integrity: sha512-BWiOUk+d5LvK/9pKaYbL8eLng2EFXgTQMH9QN5nOoizWWKXGNO6LjduVpoz8ZQfb8/6tMVhae7SAS+w0zkRkNw==}
+  /@vitest/coverage-c8/0.29.1_vitest@0.28.2:
+    resolution: {integrity: sha512-YQZp1xGNxOcZD/zQBvD4bNpUDMJW7+FhBAEBlgvJp+DQ+aNK+dKcoWOTfsod27KQhXSr6UUYI8EYXWCOQqY6Eg==}
+    peerDependencies:
+      vitest: '>=0.29.0 <1'
     dependencies:
-      c8: 7.12.0
+      c8: 7.13.0
       picocolors: 1.0.0
       std-env: 3.3.1
       vitest: 0.28.2
-    transitivePeerDependencies:
-      - '@edge-runtime/vm'
-      - '@vitest/browser'
-      - '@vitest/ui'
-      - happy-dom
-      - jsdom
-      - less
-      - sass
-      - stylus
-      - sugarss
-      - supports-color
-      - terser
     dev: true
 
   /@vitest/expect/0.28.2:
@@ -1695,8 +1685,8 @@ packages:
       semver: 7.3.8
     dev: true
 
-  /c8/7.12.0:
-    resolution: {integrity: sha512-CtgQrHOkyxr5koX1wEUmN/5cfDa2ckbHRA4Gy5LAL0zaCFtVWJS5++n+w4/sr2GWGerBxgTjpKeDclk/Qk6W/A==}
+  /c8/7.13.0:
+    resolution: {integrity: sha512-/NL4hQTv1gBL6J6ei80zu3IiTrmePDKXKXOTLpHvcIWZTVYQlDhVWjjWvkhICylE8EwwnMVzDZugCvdx0/DIIA==}
     engines: {node: '>=10.12.0'}
     hasBin: true
     dependencies:
