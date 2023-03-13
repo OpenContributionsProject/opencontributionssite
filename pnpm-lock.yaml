@@ -3,7 +3,7 @@ lockfileVersion: 5.4
 specifiers:
   '@mdx-js/loader': ^2.2.1
   '@mdx-js/react': ^2.2.1
-  '@next/font': 13.1.6
+  '@next/font': 13.2.4
   '@next/mdx': ^13.1.4
   '@types/node': 18.11.19
   '@types/react': 18.0.27
@@ -47,7 +47,7 @@ specifiers:
 dependencies:
   '@mdx-js/loader': 2.2.1
   '@mdx-js/react': 2.2.1_react@18.2.0
-  '@next/font': 13.1.6
+  '@next/font': 13.2.4
   '@next/mdx': 13.1.4_vvg67iglxhejglpl7nsv3pjzui
   next: 13.1.6_biqbaboplfbrettd7655fr4n2y
   react: 18.2.0
@@ -699,8 +699,8 @@ packages:
       glob: 7.1.7
     dev: true
 
-  /@next/font/13.1.6:
-    resolution: {integrity: sha512-AITjmeb1RgX1HKMCiA39ztx2mxeAyxl4ljv2UoSBUGAbFFMg8MO7YAvjHCgFhD39hL7YTbFjol04e/BPBH5RzQ==}
+  /@next/font/13.2.4:
+    resolution: {integrity: sha512-lMAnuOYjv5g22WhD00u0DQ9u2rTMJH0S64PKE4Sy8Y2q+FJTYs6ZHT2z3VRoI8+AOWSLK4FirpnygcjOienQ9A==}
     dev: false
 
   /@next/mdx/13.1.4_vvg67iglxhejglpl7nsv3pjzui:
