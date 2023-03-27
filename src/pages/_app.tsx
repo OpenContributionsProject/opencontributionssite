@@ -1,3 +1,4 @@
+import { useKonamimojisplosion } from "konamimojisplosion";
 import type { AppProps } from "next/app";
 import Head from "next/head";
 import Link from "next/link";
@@ -5,6 +6,8 @@ import Link from "next/link";
 import styles from "./_app.module.css";
 
 export default function App({ Component, pageProps }: AppProps) {
+	useKonamimojisplosion();
+
 	return (
 		<>
 			<Head>
