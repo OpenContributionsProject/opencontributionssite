@@ -1,4 +1,5 @@
 .next
+out
 pnpm-lock.yaml
 
 # See https://github.com/all-contributors/cli/issues/347
