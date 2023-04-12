@@ -26,6 +26,7 @@ specifiers:
   eslint-plugin-vitest: ^0.0.32
   husky: ^8.0.3
   jsonc-eslint-parser: ^2.1.0
+  konamimojisplosion: ^0.5.2
   lint-staged: ^13.1.0
   markdownlint-cli: ^0.33.0
   next: 13.1.6
@@ -49,6 +50,7 @@ dependencies:
   '@mdx-js/react': 2.2.1_react@18.2.0
   '@next/font': 13.1.6
   '@next/mdx': 13.1.4_vvg67iglxhejglpl7nsv3pjzui
+  konamimojisplosion: 0.5.2
   next: 13.1.6_biqbaboplfbrettd7655fr4n2y
   react: 18.2.0
   react-dom: 18.2.0_react@18.2.0
@@ -2252,6 +2254,10 @@ packages:
     resolution: {integrity: sha512-L18DaJsXSUk2+42pv8mLs5jJT2hqFkFE4j21wOmgbUqsZ2hL72NsUU785g9RXgo3s0ZNgVl42TiHp3ZtOv/Vyg==}
     dev: true
 
+  /emojisplosion/2.6.1:
+    resolution: {integrity: sha512-a+yvHzHHP9R8qvt7ZeZS8yReuHjwXvbBbSxJHVMMWs4+sf0eOE/v/+Iz6fQq0CdF8G04jsJMF1MNDlrIBCC1pw==}
+    dev: false
+
   /encode-registry/3.0.0:
     resolution: {integrity: sha512-2fRYji8K6FwYuQ6EPBKR/J9mcqb7kIoNqt1vGvJr3NrvKfncRiNm00Oxo6gi/YJF8R5Sp2bNFSFdGKTG0rje1Q==}
     engines: {node: '>=10'}
@@ -3693,6 +3699,17 @@ packages:
   /kleur/4.1.5:
     resolution: {integrity: sha512-o+NO+8WrRiQEE4/7nwRJhN1HWpVmJm511pBHUxPLtp0BUISzlBplORYSmTclCnJvQq2tKu/sgl3xVpkc7ZWuQQ==}
     engines: {node: '>=6'}
+    dev: false
+
+  /konami-code-js/0.8.1:
+    resolution: {integrity: sha512-bJ0tuWYLYiUueIVTpA0MV4h4Gz1X16uuJggh5TpIWXOQoLv0238SU7Im23z2wYKCCBsOfk5j4HKWB/pqdCgu5Q==}
+    dev: false
+
+  /konamimojisplosion/0.5.2:
+    resolution: {integrity: sha512-gPZ+0a720xl9OcfJOUw549fnij0xsP78GupIhl0irnJF6wwIhHSjHEp75qrXNVJb2p9Rtui5yOeJQoUcLy1lvQ==}
+    dependencies:
+      emojisplosion: 2.6.1
+      konami-code-js: 0.8.1
     dev: false
 
   /language-subtag-registry/0.3.22:
