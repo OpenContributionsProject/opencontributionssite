@@ -2,7 +2,7 @@
 	"dependencies": {
 		"@mdx-js/loader": "^2.2.1",
 		"@mdx-js/react": "^2.2.1",
-		"@next/font": "13.1.6",
+		"@next/font": "13.4.1",
 		"@next/mdx": "^13.1.4",
 		"konamimojisplosion": "^0.5.2",
 		"next": "13.1.6",
