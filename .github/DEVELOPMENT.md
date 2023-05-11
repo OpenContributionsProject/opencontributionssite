@@ -1,5 +1,11 @@
 # Development
 
+_Contributors have two options for running and developing this project: locally on your own computer, or using GitHub Codespaces. GitHub Codespaces provides a cloud-hosted development environment, which means you can work on the project without needing to set up anything on your own machine. The instructions below will guide you through both options, allowing you to choose the method that best suits your needs._
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/OpenContributionsProject/opencontributionssite?devcontainer_path=/.devcontainer/basics/devcontainer.json)
+
+## Local Development
+
 After [forking the repo from GitHub](https://help.github.com/articles/fork-a-repo) and [installing pnpm](https://pnpm.io/installation):
 
 ```shell
@@ -20,14 +26,41 @@ pnpm dev
 You can start editing the page by modifying `pages/index.tsx`.
 The page auto-updates as you edit the file. ✨
 
-## Next.js
+## GitHub Codespaces
+
+This project is configured to run in [GitHub Codespaces](https://github.com/features/codespaces), a configurable cloud development environment accessible directly from your GitHub repository.
+
+### Opening the Project in Codespaces
+
+1. Navigate to the main page of the repository.
+2. Click the green `Code` button.
+3. In the dropdown, select `Open with Codespaces`.
+4. Click on `+ New codespace`.
+
+GitHub will create a new Codespace and automatically start the development server for you. This process may take a few minutes.
+
+### Using the Codespace
+
+Once the Codespace is ready, it will open a VS Code interface in your browser. The development server will start running, a port will be forwarded, and a browser preview will open within the Codespace.
+
+You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+
+### Closing the Codespace
+
+When you're done working, you can stop your Codespace by clicking on the `Codespaces` menu in GitHub, finding your Codespace, and selecting `Delete codespace`.
+
+Remember, Codespaces are billed per usage, so it's a good idea to delete your Codespace when you're not using it.
+
+## Technologies
+
+### Next.js
 
 To learn more about Next.js, take a look at the following resources:
 
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-## Other Dev Tools
+### Other Dev Tools
 
 This repo uses a suite of other development tools to keep code clean.
 It sets up the following tooling for you:
