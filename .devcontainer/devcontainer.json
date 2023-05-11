@@ -15,9 +15,6 @@
 				"DavidAnson.vscode-markdownlint",
 				"ms-vscode-remote.remote-containers"
 			]
-		},
-		"codespaces": {
-			"openFiles": ["src/pages/_app.tsx"]
 		}
 	},
 	"portsAttributes": {
