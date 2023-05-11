@@ -3,17 +3,9 @@
 {
 	"name": "Node.js & TypeScript",
 	"image": "mcr.microsoft.com/devcontainers/typescript-node:0-18",
-
-	// Features to add to the dev container. More info: https://containers.dev/features.
-	// "features": {},
-
-	// Use 'forwardPorts' to make a list of ports inside the container available locally.
-	// "forwardPorts": [8000],
-
-	// Use 'postCreateCommand' to run commands after the container is created.
-	// "postCreateCommand": "npm install pnpm; pnpm install",
-	// "postStartCommand": "pnpm run dev",
-	// Configure tool-specific properties.
+	"waitFor": "onCreateCommand",
+	"updateContentCommand": "pnpm install",
+	"postAttachCommand": "pnpm dev",
 	"customizations": {
 		"vscode": {
 			"extensions": [
@@ -23,9 +15,16 @@
 				"DavidAnson.vscode-markdownlint",
 				"ms-vscode-remote.remote-containers"
 			]
+		},
+		"codespaces": {
+			"openFiles": ["src/pages/_app.tsx"]
 		}
-	}
-
-	// Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
-	// "remoteUser": "root"
+	},
+	"portsAttributes": {
+		"3000": {
+			"label": "Application",
+			"onAutoForward": "openPreview"
+		}
+	},
+	"forwardPorts": [3000]
 }
