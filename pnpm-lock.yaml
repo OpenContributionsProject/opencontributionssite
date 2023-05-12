@@ -3,7 +3,7 @@ lockfileVersion: 5.4
 specifiers:
   '@mdx-js/loader': ^2.2.1
   '@mdx-js/react': ^2.2.1
-  '@next/font': 13.1.6
+  '@next/font': 13.4.1
   '@next/mdx': ^13.1.4
   '@types/node': 18.11.19
   '@types/react': 18.0.27
@@ -48,7 +48,7 @@ specifiers:
 dependencies:
   '@mdx-js/loader': 2.2.1
   '@mdx-js/react': 2.2.1_react@18.2.0
-  '@next/font': 13.1.6
+  '@next/font': 13.4.1
   '@next/mdx': 13.1.4_vvg67iglxhejglpl7nsv3pjzui
   konamimojisplosion: 0.5.2
   next: 13.1.6_biqbaboplfbrettd7655fr4n2y
@@ -701,8 +701,8 @@ packages:
       glob: 7.1.7
     dev: true
 
-  /@next/font/13.1.6:
-    resolution: {integrity: sha512-AITjmeb1RgX1HKMCiA39ztx2mxeAyxl4ljv2UoSBUGAbFFMg8MO7YAvjHCgFhD39hL7YTbFjol04e/BPBH5RzQ==}
+  /@next/font/13.4.1:
+    resolution: {integrity: sha512-GIgdVNXhWgGq92NUSGVd4n2yiF1k0i6U3dt/Pa9SFJvOEJyAJ99khXVq6cYJYJS8jhbL0yjE8+th8h+KjIGzuA==}
     dev: false
 
   /@next/mdx/13.1.4_vvg67iglxhejglpl7nsv3pjzui:
