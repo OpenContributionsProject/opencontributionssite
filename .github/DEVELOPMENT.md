@@ -54,7 +54,7 @@ The page auto-updates as you edit the file.
 
 When you're done working, you can stop your Codespace by clicking on the `Codespaces` menu in GitHub, finding your Codespace, and selecting `Delete codespace`.
 
-Remember, Codespaces are billed per usage, so it's a good idea to delete your Codespace when you're not using it.
+Remember, every user has 60+ hours of free usage per month. After that, Codespaces are billed per usage, so it's a good idea to delete your Codespace when you're not using it.
 
 ## Technologies
 
