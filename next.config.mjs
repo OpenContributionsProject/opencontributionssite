@@ -12,6 +12,10 @@ const withMDX = nextMdx({
 });
 
 export default withMDX({
+	// ...(process.env.CUSTOM_BASE_PATH && {
+	// 	basePath: process.env.CUSTOM_BASE_PATH,
+	// }),
+	basePath: "/opencontributionssite",
 	pageExtensions: ["js", "jsx", "md", "mdx", "ts", "tsx"],
 	reactStrictMode: true,
 });

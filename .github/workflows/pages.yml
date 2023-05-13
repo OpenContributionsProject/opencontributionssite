@@ -14,6 +14,8 @@ jobs:
           static_site_generator: next
       - uses: ./.github/actions/prepare
       - run: pnpm build
+        env:
+          CUSTOM_BASE_PATH: "/opencontributionssite"
       - run: pnpm next export
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
@@ -28,7 +30,7 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v1
+        uses: actions/deploy-pages@v2
 
 on:
   push:
