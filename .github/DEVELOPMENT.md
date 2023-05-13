@@ -2,8 +2,8 @@
 
 We provide two preset ways to work on this repository that you can choose from:
 
-* [Local Development](#local-development): Setting up the packages on your local machine
-* [GitHub Codespaces](#github-codespaces): Using a cloud-hosted development environment
+- [Local Development](#local-development): Setting up the packages on your local machine
+- [GitHub Codespaces](#github-codespaces): Using a cloud-hosted development environment
 
 ## Local Development
 
