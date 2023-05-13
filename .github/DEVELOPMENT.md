@@ -1,10 +1,9 @@
 # Development
 
-_Contributors have two options for running and developing this project: locally on your own computer, or using GitHub Codespaces.
-GitHub Codespaces provides a cloud-hosted development environment, which means you can work on the project without needing to set up anything on your own machine.
-The instructions below will guide you through both options, allowing you to choose the method that best suits your needs._
+We provide two preset ways to work on this repository that you can choose from:
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/OpenContributionsProject/opencontributionssite?devcontainer_path=/.devcontainer/basics/devcontainer.json)
+* [Local Development](#local-development): Setting up the packages on your local machine
+* [GitHub Codespaces](#github-codespaces): Using a cloud-hosted development environment
 
 ## Local Development
 
