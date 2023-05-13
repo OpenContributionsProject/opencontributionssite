@@ -17,7 +17,8 @@ export default function App({ Component, pageProps }: AppProps) {
 					content="A resource to help advocate for and explain corporate contributions to open source."
 				/>
 				<meta name="viewport" content="width=device-width, initial-scale=1" />
-				<link rel="icon" href="/favicon.ico" />
+				<link rel="icon" href="/favicon.ico" sizes="any" />
+				<link rel="icon" href="/favicon.svg" type="image/svg+xml" />
 			</Head>
 			<header>
 				<ul className={styles.navList}>
