@@ -1,5 +1,7 @@
 {
-	"dictionaries": ["typescript"],
+	"dictionaries": [
+		"typescript"
+	],
 	"ignorePaths": [
 		"*.tsbuildinfo",
 		".github/workflows",
@@ -30,6 +32,7 @@
 		"rehype",
 		"Rizel",
 		"Scarlett",
+		"timeframe",
 		"vercel"
 	]
 }
