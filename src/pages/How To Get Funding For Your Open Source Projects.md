@@ -3,7 +3,7 @@
 
 # Overview:
 
-As wonderful as open source is, one of the biggest challenges maintained projects face is finding funding, especially ones that are sustainable. Now, don’t fret! Here are some suggestions on how to get funding for your open source projects as well as some legalities to consider in determining how to get these resources.
+As wonderful as open source software is, one of the biggest challenges these projects face is finding funding, especially ones that are sustainable. Now, don’t fret! Here are some suggestions on how to get funding for your open source projects as well as some legalities to consider in determining how to get these resources.
 
 
 ## Direct Sponsorships:
