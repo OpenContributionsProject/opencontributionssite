@@ -7,7 +7,7 @@ Open source is software containing source code that is freely modified and redis
 ## Why do Products Become Open Source?
 
 1. To interact with consumers: By making the designs and code open source, consumers have a more direct way to improve the products they enjoy, which in turn can save your company time and effort in creating troubleshooting guides.
-2. To reach more demographics: Open source products tend to gain their following through social media, so this aspect of these tools can help increase brand awareness.
+2. To reach more demographics: Open source products are often freely viewed by many consumers, which can help increase brand awareness.
 3. To build loyalty and trust: Since open source products allows people to see the source code, this creates transparency, which helps build trust between consumers and the product’s creators.
 
 ## Why do companies often choose to consume open source?
