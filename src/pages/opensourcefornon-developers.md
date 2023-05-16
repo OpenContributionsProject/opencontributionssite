@@ -8,7 +8,7 @@ Open source is software containing source code that is freely modified and redis
 
 1. To interact with consumers: By making the designs and code open source, consumers have a more direct way to improve the products they enjoy, which in turn can save your company time and effort in creating troubleshooting guides.
 2. To reach more demographics: Open source products tend to gain their following through social media, so this aspect of these tools can help increase brand awareness.
-3. To build loyalty and trust: Since open source products allows people to see the source code. This form transparency help to build trust between consumers and the product’s creators.
+3. To build loyalty and trust: Since open source products allows people to see the source code, this creates transparency, which helps build trust between consumers and the product’s creators.
 
 ## Why do companies often choose to consume open source?
 
@@ -18,6 +18,6 @@ Open source is software containing source code that is freely modified and redis
 
 ## Why do companies often choose to publish open source?
 
-1. To build a community: The transparency of open source products allows companies various ways to promote their products ranging from blog posts about the products, tweets that spotlight members for their contributions to the product.
+1. To build a community: The transparency of open source products allows companies various ways to promote their products ranging from blog posts about the products to social media posts that spotlight members for their contributions to the product.
 2. Increased security: Since open source communities tend to be large, bugs and tech issues can be fixed in a quick timeframe. According to a [2021 survey done by Red Hat](https://www.redhat.com/en/resources/state-of-enterprise-open-source-report-2022), 89% of IT leaders at companies worldwide believed open source software was just as secure or more secure than proprietary software.
 3. Potential Employees: Open source communities offer people from diverse backgrounds to showcase their skills, thus offering companies a chance to find potential employees that can help take their businesses to new heights!
