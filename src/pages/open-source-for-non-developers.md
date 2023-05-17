@@ -2,7 +2,9 @@
 
 ## What is Open Source?
 
-Open source is software whose source code that can be freely viewed and redistributed. Unlike products that contain proprietary code, open source code can be viewed by developers worldwide. It can also allows people to propose changes, which fosters a collaborative working environment.
+Open source is software whose source code that can be freely viewed and redistributed.
+Unlike products that contain proprietary code, open source code can be viewed by developers worldwide.
+It can also allows people to propose changes, which fosters a collaborative working environment.
 
 ## Why do Products Become Open Source?
 
@@ -12,9 +14,12 @@ Open source is software whose source code that can be freely viewed and redistri
 
 ## Why do companies often choose to consume open source?
 
-1. Innovation: Since open source software allows people to propose changes, it allows participation from a wide variety of contributions. This means more contributors can propose ideas and improve the project.
-2. Cost-effective: Open source software is often free, which in turn helps companies save money. This is because the software is developed and maintained by a community of developers, rather than by a single company. This means that there is no need to pay for software licenses, which can be a significant expense for businesses.
-3. Time-saving: Open source software can also help businesses to save time and resources. This is because the software is already developed and tested, so businesses do not need to spend time and money developing their own software. This can free up businesses to focus on their core business activities.
+1. Innovation: Since open source software allows people to propose changes, it allows participation from a wide variety of contributions,
+   which means more contributors can propose ideas and improve the project.
+1. Cost-effective: Open source software is often free, which in turn helps companies save money. This is because the software is developed and maintained by a community of developers, rather than by a single company. This means that there is no need to pay for software licenses, which can be a significant expense for businesses.
+1. Time-saving: Open source software can also help businesses to save time and resources.
+   This is because the software is already developed and tested, so businesses do not need to spend time and money developing their own software.
+   Additionally, Open source software can give businesses more time to focus on their core business activities.
 
 ## Why do companies often choose to publish open source?
 
