@@ -49,6 +49,15 @@
       "contributions": [
         "design"
       ]
+    },
+    {
+      "login": "EmmaDawsonDev",
+      "name": "Emma Dawson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57045550?v=4",
+      "profile": "https://emmadawson.dev",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
