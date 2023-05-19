@@ -16,7 +16,7 @@ See our [_area: data gathering_ issues](https://github.com/OpenContributionsProj
 
 The site is a little visually bland right now.
 We're going to need to make it presentable, with a full site theme and backing design system.
-See our [_area: design_ issues](https://github.com/OpenContributionsProject/opencontributionssite/labels/area%3A%20data%20gathering) for ones you can get started on.
+See our [_area: design_ issues](https://github.com/OpenContributionsProject/opencontributionssite/labels/area%3A%20design) for ones you can get started on.
 
 ## Development
 
