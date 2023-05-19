@@ -2,7 +2,7 @@
 
 ## What is Open Source?
 
-Open source is software whose source code that can be freely viewed and redistributed.
+Open source is software whose source code can be freely viewed and redistributed.
 Unlike products that contain proprietary code, open source code can be viewed by developers worldwide.
 It can also allows people to propose changes, which fosters a collaborative working environment.
 
