@@ -11,11 +11,9 @@ const withMDX = nextMdx({
 	},
 });
 
-const nextConfig = {
+export default withMDX({
 	reactStrictMode: true,
 	experimental: {
 		mdxRs: true,
 	},
-};
-
-export default withMDX(nextConfig);
+});
