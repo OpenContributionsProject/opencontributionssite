@@ -1,7 +1,8 @@
-import React from "react";
-import styles from "../styles/layout.module.css";
-import { Metadata } from "next";
+import type { Metadata } from "next";
 import Link from "next/link";
+import React from "react";
+
+import styles from "../styles/layout.module.css";
 
 export const metadata: Metadata = {
 	title: "Open Contributions Project",
