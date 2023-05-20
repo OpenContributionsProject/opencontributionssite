@@ -58,6 +58,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "kevinzunigacuellar",
+      "name": "Kevin Zuniga Cuellar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46791833?v=4",
+      "profile": "http://www.kevinzunigacuellar.com",
+      "contributions": [
+        "tool"
+      ]
     }
   ],
   "contributorsPerLine": 7,
