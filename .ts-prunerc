@@ -1,4 +1,4 @@
 {
 	"error": true,
-	"skip": "(src/pages|vitest\\.config\\.ts)"
+	"skip": "(src/app|vitest\\.config\\.ts|src/mdx-components.tsx)"
 }

@@ -12,6 +12,8 @@ const withMDX = nextMdx({
 });
 
 export default withMDX({
-	pageExtensions: ["js", "jsx", "md", "mdx", "ts", "tsx"],
 	reactStrictMode: true,
+	experimental: {
+		mdxRs: true,
+	},
 });
