@@ -13,7 +13,7 @@ See <a href="https://github.com/OpenContributionsProject">github.com/OpenContrib
 	<a href="#contributors" target="_blank">
 <!-- prettier-ignore-start -->
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-<img alt="All Contributors: 4" src="https://img.shields.io/badge/all_contributors-4-21bb42.svg" />
+<img alt="All Contributors: 5" src="https://img.shields.io/badge/all_contributors-5-21bb42.svg" />
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <!-- prettier-ignore-end -->
 	</a>
@@ -50,6 +50,7 @@ We'd love to have you contribute! 💖
       <td align="center" valign="top" width="14.28%"><a href="https://blackgirlbytes.dev"><img src="https://avatars.githubusercontent.com/u/22990146?v=4?s=100" width="100px;" alt="Rizel Scarlett"/><br /><sub><b>Rizel Scarlett</b></sub></a><br /><a href="https://github.com/OpenContributionsProject/opencontributionssite/issues?q=author%3Ablackgirlbytes" title="Bug reports">🐛</a> <a href="https://github.com/OpenContributionsProject/opencontributionssite/commits?author=blackgirlbytes" title="Code">💻</a> <a href="#content-blackgirlbytes" title="Content">🖋</a> <a href="#ideas-blackgirlbytes" title="Ideas, Planning, & Feedback">🤔</a> <a href="#infra-blackgirlbytes" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-blackgirlbytes" title="Maintenance">🚧</a> <a href="#platform-blackgirlbytes" title="Packaging/porting to new platform">📦</a> <a href="#projectManagement-blackgirlbytes" title="Project Management">📆</a> <a href="https://github.com/OpenContributionsProject/opencontributionssite/pulls?q=is%3Apr+reviewed-by%3Ablackgirlbytes" title="Reviewed Pull Requests">👀</a> <a href="#tool-blackgirlbytes" title="Tools">🔧</a> <a href="https://github.com/OpenContributionsProject/opencontributionssite/commits?author=blackgirlbytes" title="Tests">⚠️</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://kingsley.vzy.io/"><img src="https://avatars.githubusercontent.com/u/63562509?v=4?s=100" width="100px;" alt="Kingsley Mkpandiok"/><br /><sub><b>Kingsley Mkpandiok</b></sub></a><br /><a href="#design-iamkingsleey" title="Design">🎨</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://emmadawson.dev"><img src="https://avatars.githubusercontent.com/u/57045550?v=4?s=100" width="100px;" alt="Emma Dawson"/><br /><sub><b>Emma Dawson</b></sub></a><br /><a href="https://github.com/OpenContributionsProject/opencontributionssite/commits?author=EmmaDawsonDev" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://www.kevinzunigacuellar.com"><img src="https://avatars.githubusercontent.com/u/46791833?v=4?s=100" width="100px;" alt="Kevin Zuniga Cuellar"/><br /><sub><b>Kevin Zuniga Cuellar</b></sub></a><br /><a href="#tool-kevinzunigacuellar" title="Tools">🔧</a></td>
     </tr>
   </tbody>
 </table>
