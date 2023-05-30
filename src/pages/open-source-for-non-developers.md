@@ -12,7 +12,8 @@ It also allows people to propose changes, which fosters a collaborative working 
 
 1. To interact with consumers: By making the designs and code open source, consumers have a more direct way to improve the products they enjoy,
    which in turn can save your company time and effort.
-2. To reach more demographics: Open source products are often freely viewed by many consumers. This can help increase brand awareness.
+2. To reach more demographics: Open source products are often freely viewed by many consumers. 
+This can help increase brand awareness.
 3. To build loyalty and trust: Since open source products allow people to see the source code. This creates transparency, which helps build trust between consumers and the product’s creators.
 
 ## Why do companies often choose to consume open source?
