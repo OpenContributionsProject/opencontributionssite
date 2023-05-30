@@ -40,6 +40,7 @@ We'd love to have you contribute! 💖
 
 ## Contributors
 
+<!-- spellchecker: disable -->
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
@@ -59,3 +60,4 @@ We'd love to have you contribute! 💖
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+<!-- spellchecker: enable -->
