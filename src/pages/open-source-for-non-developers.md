@@ -19,7 +19,9 @@ It also allows people to propose changes, which fosters a collaborative working 
 
 1. Innovation: Since open source software allows people to propose changes, it allows participation from a wide variety of contributions,
    which means more contributors can propose ideas and improve the project.
-1. Cost-effective: Open source software is often free, which in turn helps companies save money. This is because the software is developed and maintained by a community of developers, rather than by a single company. This means that there is no need to pay for software licenses, which can be a significant expense for businesses.
+1. Cost-effective: Open source software is often free, which in turn helps companies save money. 
+This is because the software is developed and maintained by a community of developers, rather than by a single company. 
+This means that there is no need to pay for software licenses, which can be a significant expense for businesses.
 1. Time-saving: Open source software can also help businesses to save time and resources.
    This is because the software is already developed and tested, so businesses do not need to spend time and money developing their own software.
    Additionally, open source software can give businesses more time to focus on their core business activities.
