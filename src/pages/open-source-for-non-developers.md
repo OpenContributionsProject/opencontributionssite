@@ -30,5 +30,6 @@ This means that there is no need to pay for software licenses, which can be a si
 ## Why do companies often choose to publish open source?
 
 1. To build a community: The transparency of open source products allows companies various ways to promote their products ranging from blog posts about the products to social media posts that spotlight members for their contributions to the product.
-2. Increased security: Since open source communities tend to be large, bugs and tech issues can be fixed in a quick timeframe. According to a [2021 survey done by Red Hat](https://www.redhat.com/en/resources/state-of-enterprise-open-source-report-2022), 89% of IT leaders at companies worldwide believed open source software was just as secure or more secure than proprietary software.
+2. Increased security: Since open source communities tend to be large, bugs and tech issues can be fixed in a quick timeframe. 
+According to a [2021 survey done by Red Hat](https://www.redhat.com/en/resources/state-of-enterprise-open-source-report-2022), 89% of IT leaders at companies worldwide believed open source software was just as secure or more secure than proprietary software.
 3. Potential Employees: Open source communities allow people from diverse backgrounds to showcase their skills, thus offering companies a chance to find potential employees that can help take their businesses to new heights!
