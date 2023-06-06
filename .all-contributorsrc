@@ -67,6 +67,15 @@
       "contributions": [
         "tool"
       ]
+    },
+    {
+      "login": "CBID2",
+      "name": "Christine Belzie",
+      "avatar_url": "https://avatars.githubusercontent.com/u/105683440?v=4",
+      "profile": "https://linkfree.eddiehub.io/CBID2",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
@@ -78,5 +87,6 @@
   "projectOwner": "OpenContributionsProject",
   "repoHost": "https://github.com",
   "repoType": "github",
-  "skipCi": true
+  "skipCi": true,
+  "commitType": "docs"
 }
