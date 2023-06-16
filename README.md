@@ -13,7 +13,7 @@ See <a href="https://github.com/OpenContributionsProject">github.com/OpenContrib
 	<a href="#contributors" target="_blank">
 <!-- prettier-ignore-start -->
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-<img alt="All Contributors: 3" src="https://img.shields.io/badge/all_contributors-3-21bb42.svg" />
+<img alt="All Contributors: 6" src="https://img.shields.io/badge/all_contributors-6-21bb42.svg" />
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <!-- prettier-ignore-end -->
 	</a>
@@ -40,6 +40,7 @@ We'd love to have you contribute! 💖
 
 ## Contributors
 
+<!-- spellchecker: disable -->
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
@@ -49,6 +50,9 @@ We'd love to have you contribute! 💖
       <td align="center" valign="top" width="14.28%"><a href="http://www.joshuakgoldberg.com"><img src="https://avatars.githubusercontent.com/u/3335181?v=4?s=100" width="100px;" alt="Josh Goldberg"/><br /><sub><b>Josh Goldberg</b></sub></a><br /><a href="https://github.com/OpenContributionsProject/opencontributionssite/issues?q=author%3AJoshuaKGoldberg" title="Bug reports">🐛</a> <a href="https://github.com/OpenContributionsProject/opencontributionssite/commits?author=JoshuaKGoldberg" title="Code">💻</a> <a href="#content-JoshuaKGoldberg" title="Content">🖋</a> <a href="#ideas-JoshuaKGoldberg" title="Ideas, Planning, & Feedback">🤔</a> <a href="#infra-JoshuaKGoldberg" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-JoshuaKGoldberg" title="Maintenance">🚧</a> <a href="#platform-JoshuaKGoldberg" title="Packaging/porting to new platform">📦</a> <a href="#projectManagement-JoshuaKGoldberg" title="Project Management">📆</a> <a href="https://github.com/OpenContributionsProject/opencontributionssite/pulls?q=is%3Apr+reviewed-by%3AJoshuaKGoldberg" title="Reviewed Pull Requests">👀</a> <a href="#tool-JoshuaKGoldberg" title="Tools">🔧</a> <a href="https://github.com/OpenContributionsProject/opencontributionssite/commits?author=JoshuaKGoldberg" title="Tests">⚠️</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://blackgirlbytes.dev"><img src="https://avatars.githubusercontent.com/u/22990146?v=4?s=100" width="100px;" alt="Rizel Scarlett"/><br /><sub><b>Rizel Scarlett</b></sub></a><br /><a href="https://github.com/OpenContributionsProject/opencontributionssite/issues?q=author%3Ablackgirlbytes" title="Bug reports">🐛</a> <a href="https://github.com/OpenContributionsProject/opencontributionssite/commits?author=blackgirlbytes" title="Code">💻</a> <a href="#content-blackgirlbytes" title="Content">🖋</a> <a href="#ideas-blackgirlbytes" title="Ideas, Planning, & Feedback">🤔</a> <a href="#infra-blackgirlbytes" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-blackgirlbytes" title="Maintenance">🚧</a> <a href="#platform-blackgirlbytes" title="Packaging/porting to new platform">📦</a> <a href="#projectManagement-blackgirlbytes" title="Project Management">📆</a> <a href="https://github.com/OpenContributionsProject/opencontributionssite/pulls?q=is%3Apr+reviewed-by%3Ablackgirlbytes" title="Reviewed Pull Requests">👀</a> <a href="#tool-blackgirlbytes" title="Tools">🔧</a> <a href="https://github.com/OpenContributionsProject/opencontributionssite/commits?author=blackgirlbytes" title="Tests">⚠️</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://kingsley.vzy.io/"><img src="https://avatars.githubusercontent.com/u/63562509?v=4?s=100" width="100px;" alt="Kingsley Mkpandiok"/><br /><sub><b>Kingsley Mkpandiok</b></sub></a><br /><a href="#design-iamkingsleey" title="Design">🎨</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://emmadawson.dev"><img src="https://avatars.githubusercontent.com/u/57045550?v=4?s=100" width="100px;" alt="Emma Dawson"/><br /><sub><b>Emma Dawson</b></sub></a><br /><a href="https://github.com/OpenContributionsProject/opencontributionssite/commits?author=EmmaDawsonDev" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://www.kevinzunigacuellar.com"><img src="https://avatars.githubusercontent.com/u/46791833?v=4?s=100" width="100px;" alt="Kevin Zuniga Cuellar"/><br /><sub><b>Kevin Zuniga Cuellar</b></sub></a><br /><a href="#tool-kevinzunigacuellar" title="Tools">🔧</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://linkfree.eddiehub.io/CBID2"><img src="https://avatars.githubusercontent.com/u/105683440?v=4?s=100" width="100px;" alt="Christine Belzie"/><br /><sub><b>Christine Belzie</b></sub></a><br /><a href="https://github.com/OpenContributionsProject/opencontributionssite/commits?author=CBID2" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
@@ -57,3 +61,4 @@ We'd love to have you contribute! 💖
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+<!-- spellchecker: enable -->
