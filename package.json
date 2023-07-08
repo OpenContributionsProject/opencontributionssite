@@ -41,7 +41,7 @@
 		"npm-package-json-lint-config-default": "^6.0.0",
 		"pnpm": "^8.5.0",
 		"pnpm-deduplicate": "^0.4.1",
-		"prettier": "^2.8.8",
+		"prettier": "^3.0.0",
 		"sentences-per-line": "^0.2.1",
 		"ts-prune": "^0.10.3",
 		"typescript": "^5.0.4",
