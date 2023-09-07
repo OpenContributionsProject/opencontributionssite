@@ -110,11 +110,11 @@ devDependencies:
     specifier: ^0.35.0
     version: 0.35.0
   npm-package-json-lint:
-    specifier: ^6.4.0
-    version: 6.4.0
+    specifier: ^7.0.0
+    version: 7.0.0(typescript@5.0.4)
   npm-package-json-lint-config-default:
     specifier: ^6.0.0
-    version: 6.0.0(npm-package-json-lint@6.4.0)
+    version: 6.0.0(npm-package-json-lint@7.0.0)
   pnpm:
     specifier: ^8.5.0
     version: 8.5.0
@@ -1923,7 +1923,7 @@ packages:
   /builtins@5.0.1:
     resolution: {integrity: sha512-qwVpFEHNfhYJIzNRBvd2C1kyo6jz3ZSMPyyuR47OPdiKWlbYnZNyDWuyR175qDnAJLiCo5fBBqPb3RiXgWlkOQ==}
     dependencies:
-      semver: 7.3.8
+      semver: 7.5.4
     dev: true
 
   /busboy@1.6.0:
@@ -2238,6 +2238,22 @@ packages:
       js-yaml: 4.1.0
       parse-json: 5.2.0
       path-type: 4.0.0
+    dev: true
+
+  /cosmiconfig@8.3.4(typescript@5.0.4):
+    resolution: {integrity: sha512-SF+2P8+o/PTV05rgsAjDzL4OFdVXAulSfC/L19VaeVT7+tpOOSscCt2QLxDZ+CLxF2WOiq6y1K5asvs8qUJT/Q==}
+    engines: {node: '>=14'}
+    peerDependencies:
+      typescript: '>=4.9.5'
+    peerDependenciesMeta:
+      typescript:
+        optional: true
+    dependencies:
+      import-fresh: 3.3.0
+      js-yaml: 4.1.0
+      parse-json: 5.2.0
+      path-type: 4.0.0
+      typescript: 5.0.4
     dev: true
 
   /cross-spawn@7.0.3:
@@ -5044,7 +5060,7 @@ packages:
     dependencies:
       hosted-git-info: 4.1.0
       is-core-module: 2.11.0
-      semver: 7.3.8
+      semver: 7.5.4
       validate-npm-package-license: 3.0.4
     dev: true
 
@@ -5053,24 +5069,24 @@ packages:
     engines: {node: '>=0.10.0'}
     dev: true
 
-  /npm-package-json-lint-config-default@6.0.0(npm-package-json-lint@6.4.0):
+  /npm-package-json-lint-config-default@6.0.0(npm-package-json-lint@7.0.0):
     resolution: {integrity: sha512-Ek3EcbMEjvGSxEywxNF2tTHuzvtaUH48Z7sljmeSejANMSpE1ssIN0oOG/Tlpc+U/P7ElfsOySIjijjmEnvMGw==}
     engines: {node: '>=16.0.0', npm: '>=8.0.0'}
     peerDependencies:
       npm-package-json-lint: ^7.0.0
     dependencies:
-      npm-package-json-lint: 6.4.0
+      npm-package-json-lint: 7.0.0(typescript@5.0.4)
     dev: true
 
-  /npm-package-json-lint@6.4.0:
-    resolution: {integrity: sha512-cuXAJJB1Rdqz0UO6w524matlBqDBjcNt7Ru+RDIu4y6RI1gVqiWBnylrK8sPRk81gGBA0X8hJbDXolVOoTc+sA==}
-    engines: {node: '>=14.0.0', npm: '>=6.0.0'}
+  /npm-package-json-lint@7.0.0(typescript@5.0.4):
+    resolution: {integrity: sha512-Yn8flnPx/7hTxwejWL5urm8sbEahq8ic3R80d7nlBvS6C58JEmJpUqvO7Ksy8izRzpbrHq0Anwlv/nQg5OYf8Q==}
+    engines: {node: '>=16.0.0', npm: '>=8.0.0'}
     hasBin: true
     dependencies:
       ajv: 6.12.6
       ajv-errors: 1.0.1(ajv@6.12.6)
       chalk: 4.1.2
-      cosmiconfig: 8.0.0
+      cosmiconfig: 8.3.4(typescript@5.0.4)
       debug: 4.3.4
       globby: 11.1.0
       ignore: 5.2.4
@@ -5079,13 +5095,14 @@ packages:
       log-symbols: 4.1.0
       meow: 9.0.0
       plur: 4.0.0
-      semver: 7.3.8
+      semver: 7.5.4
       slash: 3.0.0
       strip-json-comments: 3.1.1
-      type-fest: 3.4.0
+      type-fest: 3.13.1
       validate-npm-package-name: 5.0.0
     transitivePeerDependencies:
       - supports-color
+      - typescript
     dev: true
 
   /npm-run-path@4.0.1:
@@ -5806,6 +5823,14 @@ packages:
       lru-cache: 6.0.0
     dev: true
 
+  /semver@7.5.4:
+    resolution: {integrity: sha512-1bCSESV6Pv+i21Hvpxp3Dx+pSD8lIPt8uVjRrxAUt/nbswYc+tK6Y2btiULjd4+fnq15PX+nqQDC7Oft7WkwcA==}
+    engines: {node: '>=10'}
+    hasBin: true
+    dependencies:
+      lru-cache: 6.0.0
+    dev: true
+
   /sentences-per-line@0.2.1:
     resolution: {integrity: sha512-6hlyKBwqoaZJ5+RBTKNNem2kBGAboh9e9KfFw5KYKA+64xaTYWbv5C6XnOudx8xk1Sg6f/4yalhJtCZFSLWIsQ==}
     dependencies:
@@ -6319,8 +6344,8 @@ packages:
     engines: {node: '>=10'}
     dev: true
 
-  /type-fest@3.4.0:
-    resolution: {integrity: sha512-PEPg6RHlB9cFwoTMNENNrQFL0cXX04voWr2UPwQBJ3pVs7Mt8Y1oLWdUeMdGEwZE8HFFlujq8gS9enmyiQ8pLg==}
+  /type-fest@3.13.1:
+    resolution: {integrity: sha512-tLq3bSNx+xSpwvAJnzrK0Ep5CLNWjvFTOp71URMaAEWBfRb9nnJiBoUe0tF8bI4ZFO3omgBR6NvnbzVUT3Ly4g==}
     engines: {node: '>=14.16'}
     dev: true
 
