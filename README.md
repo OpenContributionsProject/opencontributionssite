@@ -1,3 +1,9 @@
+> **On hold**.
+> None of us have time to work on this.
+> If you'd like to pick it up, please let us know.
+> Otherwise this will sit for a while.
+> 👋
+
 <h1 align="center">Open Contributions Site</h1>
 
 <p align="center">A resource to help advocate for and explain corporate contributions to open source.
