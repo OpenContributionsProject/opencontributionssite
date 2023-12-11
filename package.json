@@ -9,7 +9,7 @@
 		"react": "18.2.0",
 		"react-dom": "18.2.0",
 		"rehype-autolink-headings": "^6.1.1",
-		"rehype-slug": "^5.1.0",
+		"rehype-slug": "^6.0.0",
 		"remark-gfm": "^3.0.1"
 	},
 	"description": "A resource to help advocate for and explain corporate contributions to open source.",
