@@ -45,7 +45,7 @@
 		"sentences-per-line": "^0.2.1",
 		"ts-prune": "^0.10.3",
 		"typescript": "^5.0.4",
-		"vitest": "^0.31.0"
+		"vitest": "^0.34.0"
 	},
 	"engines": {
 		"node": ">=18"
